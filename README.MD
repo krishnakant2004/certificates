@@ -1,6 +1,6 @@
 ## 🏆 Certificates
 
-These are the certificates I received for participating in **JIGNASA 2K24**, a National Level Technical Student's Fest held at **G. Pulla Reddy Engineering College (Autonomous), Kurnool**.
+These are the certificates I received for First Rank and participating in **JIGNASA 2K24**, a National Level Technical Student's Fest held at **G. Pulla Reddy Engineering College (Autonomous), Kurnool**.
 
 ### 📜 Certificates Earned:
 1. **Certificate of Participation** 🏅  
@@ -12,7 +12,8 @@ These are the certificates I received for participating in **JIGNASA 2K24**, a N
    - Recognized for outstanding performance in the **National Level Technical Student's Fest**.
 
 ### 📸 Certificates Preview:
-![Certificate of Participation](udemy%20certificates/WhatsApp%20Image%202025-03-14%20at%2018.39.48%20(1).jpeg)  
 ![Certificate of Merit](udemy%20certificates/WhatsApp%20Image%202025-03-14%20at%2018.39.48.jpeg)  
+![Certificate of Participation](udemy%20certificates/WhatsApp%20Image%202025-03-14%20at%2018.39.48%20(1).jpeg)  
+
 
 These certificates highlight my enthusiasm for technical events and my achievements in creative and competitive domains. 🚀
